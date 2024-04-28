@@ -1,6 +1,7 @@
 ### EX10 [PROJECT] Sentimental Analysis on Any Dataset Using Rapidminer
-### DATE: 
-### AIM: To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
+### DATE: 27/4/2024
+### AIM: 
+To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ### Description: 
 <div align = "justify">
 
@@ -27,4 +28,13 @@
 
 ### Output:
 
+#### Developed by:KAVIYA SHREE S
+#### Reg.no: 212222110018
+
+![image](https://github.com/kaviya2839/WDM_EXP10/assets/120553351/38e0fb68-8a65-4493-8706-aa322c74fd0f)
+![image](https://github.com/kaviya2839/WDM_EXP10/assets/120553351/167b5dc4-befc-4918-a991-8c5adeb6374e)
+![image](https://github.com/kaviya2839/WDM_EXP10/assets/120553351/72404431-b364-47d5-9c91-f6b6a9fae624)
+
+
 ### Result:
+Thus sentimental analysis for twitter data using Rapidminer is done successfully.
